@@ -26,7 +26,8 @@ var numeric = [
 	["8/26/23","MrjLaine & Flo","MrjRie & Kev","Antoine"],
 	["9/2/23","Antoine & Kev","MrjLaine & Flo","MrjRie"], //same
 	["9/9/23","This is","the end...","Adele"],
-	["9/16/23","One more","night!!!","..Daft Punk"]
+	["9/16/23","One more","night!!!","..Daft Punk"],
+	["9/23/23","One more","night!!!","..Daft Punk"]
 ];
 
 var i = 0;
