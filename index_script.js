@@ -1,4 +1,5 @@
 var numeric = [
+	["9/22/23","Coming","Soon",""],
 	["9/29/23","Antoine & Kev","Heloise & Xav",""], //same
 	["10/6/23","Antoine & Xav","Keke & Heloise",""],
 	["10/13/23","Heloise et Xav","Antoine & Keke",""], 
